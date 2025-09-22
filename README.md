@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abhiram 👋
 
-### 🚀 Full Stack Developer | 💡 Problem Solver | 🌟 Open Source Enthusiast
+### 🚀  💡 Problem Solver | 🌟 Open Source Enthusiast
 
 </div>
 
