@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhicodes369&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
+
   <!-- Most Used Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhicodes369&layout=compact&langs_count=8&theme=radical"/>
   
@@ -47,8 +45,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhicodes369&theme=radical" alt="GitHub Streak" />
   
 </div>
 
@@ -58,15 +54,6 @@ Here are some ideas to get you started:
   
   <img src="https://github-profile-trophy.vercel.app/?username=abhicodes369&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhicodes369&theme=react-dark&bg_color=20232a&hide_border=true" />
-  
-</div>
 
 ## 🔥 Recent Activity
 
