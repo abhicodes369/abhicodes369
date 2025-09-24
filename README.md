@@ -55,10 +55,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=abhicodes369&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
 
